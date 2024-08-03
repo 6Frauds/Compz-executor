@@ -1,1 +1,1 @@
-This is an executor that me and my friends made as novices while partially using yhe synapse X script. The software must be downloaded on conputer
+This is the reuploaded Solara builder file that I had before the server was raided. Make sure the executor is used on computer.
